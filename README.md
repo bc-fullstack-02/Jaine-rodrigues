@@ -2,7 +2,7 @@
 Rede social.
 <br>
 > status do projeto: Em construção :warning:
-### Features
+### Phases
 - [x] Preparação do ambiente
 - [ ] Back-end
 - [ ] Front-end
